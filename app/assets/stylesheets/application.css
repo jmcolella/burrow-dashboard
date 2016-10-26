@@ -1,0 +1,22 @@
+.main-font {
+  font-family: 'Lato', sans-serif;
+}
+
+.main-color {
+  color: #ffb400;
+}
+
+a:hover {
+  color: black !important;
+}
+
+.dashboard-container {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#traffic-table {
+  height: 60vh;
+  overflow: hidden;
+}
